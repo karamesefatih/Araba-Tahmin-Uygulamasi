@@ -569,7 +569,7 @@ def hesapla():
 hesapla_buton = Button(pencere, text = "HESAPLA", command = hesapla, font="helvetica 15",borderwidth=60, padx = 100, pady = 40, background = "#f7fafc")
 hesapla_buton.place(x = 1010, y = 500)
 
-s1 = Label(pencere, text= "125000", font="helvetica 12",borderwidth=6, padx = 200, pady = 40)
+s1 = Label(pencere, text= "", font="helvetica 12",borderwidth=6, padx = 200, pady = 40)
 s1.place(x = 1010, y = 300)
 
 
