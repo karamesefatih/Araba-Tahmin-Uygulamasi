@@ -1,6 +1,7 @@
 Üniversite 3. sınıfta dönem projesi olarak python'da yaptığım arayüze sahip 
 ve selenium kullanan bir prediction projesidir.
 
+
 1 - İlk veri çekme projesini çalıştırın.Öncesinde chromedriver.exe indirin ve veri çekmek istediğiniz sitenin linkini browser.get("") fonksiyonun içine yazın
 
 2 -Veri önişlemyi çalıştırın
